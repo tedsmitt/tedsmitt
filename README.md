@@ -8,5 +8,5 @@ I'm a platform engineer working primarily on AWS but with Azure and (some) GCP e
  - Creating CICD pipelines
  - Learning!
 
-🌍 Manchester, UK.
+🌍 Manchester, UK
 📫 ed@edintheclouds.io
