@@ -5,7 +5,7 @@ I'm a platform engineer working primarily on AWS but with Azure and (some) GCP e
 ### 😁 I'm in my happy place when I'm
  - Scripting/Automating stuff
  - Working with containers (and container orchestration!)
- - Building cloud infrastructure
+ - Building and engineering cloud infrastructure
  - Learning!
 
 🌍 Manchester, UK
