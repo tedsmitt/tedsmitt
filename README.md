@@ -9,4 +9,5 @@ I'm a platform engineer working primarily on AWS but with Azure and (some) GCP e
 - 🎓 Learning!
 
 🌍 Manchester, UK
+
 📫 ed@edintheclouds.io
