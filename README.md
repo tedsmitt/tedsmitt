@@ -4,8 +4,9 @@ I'm a cloud engineer working primarily on AWS but with Azure and (some) GCP expe
 
 ### 😁 I'm in my happy place when I'm
 - ⚙️ Scripting and automating stuff
+- 🧑‍💻 Improving developer experience
 - 🏗 Building and engineering cloud infrastructure
-- 🧑‍💻 Improving developer experience by helping them to deliver software quicker, and more safely.
+- 🛠 Writing code and creating tools to help make life easier
 - 🎓 Learning!
 
 🌍 Manchester, UK
