@@ -1,4 +1,4 @@
-## Hello there, I'm Ed! 👋
+## Hi there, I'm Ed! 👋
 
 I'm a cloud engineer working primarily on AWS but with Azure and (some) GCP experience. 
 
